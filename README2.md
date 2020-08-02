@@ -102,7 +102,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Dialogue and Interactive Systems](#content)
 
-1. **A Comparative Survey of Recent Natural Language Interfaces for Databases.** VLDB Journal 2019 [paper](https://arxiv.org/abs/1906.08990) [bib](/bib/Natural Language Processing/Dialogue and Interactive Systems/Paper01.md)
+1. **A Comparative Survey of Recent Natural Language Interfaces for Databases.** VLDB Journal 2019 [paper](https://arxiv.org/abs/1906.08990) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Paper01.md)
 
     *Katrin Affolter, Kurt Stockinger, Abraham Bernstein*
 
