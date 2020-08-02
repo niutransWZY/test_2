@@ -181,11 +181,5 @@
 	<td>CoRR</td>
 	<td>https://arxiv.org/abs/2002.03084</td>
 </tr>
-<tr>
-	<td>Improving Fluency of Non-Autoregressive Machine Translation</td>
-	<td>*Zdenek Kasner, Jindrich Libovický, Jindrich Helcl*</td>
-	<td>CoRR</td>
-	<td>https://arxiv.org/abs/2004.03227</td>
-</tr>
 
 </table>
