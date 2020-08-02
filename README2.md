@@ -92,7 +92,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Computational Social Science and Social Media](#content)
 
-1. **Computational Sociolinguistics: A Survey.** Computational Linguistics 2015 [paper](https://arxiv.org/abs/1508.07544) [bib](/bib/Natural Language Processing/Computational Social Science and Social Media/Paper01.md)
+1. **Computational Sociolinguistics: A Survey.** Computational Linguistics 2015 [paper](https://arxiv.org/abs/1508.07544) [bib](/bib/Natural-Language-Processing/Computational-Social-Science-and-Social-Media/Paper01.md)
 
     *Dong Nguyen, A Seza Dogruoz, Carolyn Penstein Rose, Franciska De Jong*
 
