@@ -14,7 +14,7 @@
 	<td>https://arxiv.org/abs/1711.02281</td>
 </tr>
 <tr>
-	<td>Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement</td>
+	<td>Deterministic  Neural Sequence Modeling by Iterative Refinement</td>
 	<td>*Jason Lee, Elman Mansimov, Kyunghyun Cho*</td>
 	<td>EMNLP-2018</td>
 	<td>https://doi.org/10.18653/v1/d18-1149</td>
