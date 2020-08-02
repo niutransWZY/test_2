@@ -2,11 +2,18 @@
 # Machine Translation Paper List (Non-Autoregressive Translation)
 <table>
 <tr>
+    <td>Paper</td>
+    <td>Autors</td>
+    <td>Venue</td>
+    <td>Link</td>
+</tr>
+<tr>
     <td>LAVA NAT: A Non-Autoregressive Translation Model with Look-Around Decoding and Vocabulary Attention</td>
     <td>Xiaoya Li, Yuxian Meng, Arianna Yuan, Fei Wu, Jiwei Li*</td>
     <td>CoRR</td>
     <td>https://arxiv.org/abs/2002.03084</td>
 </tr>
+</table>
 
 | Paper                                                        | Authors                                                      | Venue      | Link                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------- |
