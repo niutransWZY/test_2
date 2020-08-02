@@ -20,12 +20,6 @@
 	<td>https://doi.org/10.18653/v1/d18-1149</td>
 </tr>
 <tr>
-	<td>End-to-End Non-Autoregressive Neural Machine Translation with Connectionist Temporal Classification</td>
-	<td>*Jindrich Libovický, Jindrich Helcl*</td>
-	<td>EMNLP-2018</td>
-	<td>https://doi.org/10.18653/v1/d18-1336</td>
-</tr>
-<tr>
 	<td>Fast Decoding in Sequence Models Using Discrete Latent Variables</td>
 	<td>*Lukasz Kaiser, Samy Bengio, Aurko Roy, Ashish Vaswani, Niki Parmar, Jakob Uszkoreit, Noam Shazeer*</td>
 	<td>ICML-2018</td>
