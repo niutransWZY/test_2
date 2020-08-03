@@ -13,4 +13,3 @@
 | GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding | *Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen* | arXiv      | https://arxiv.org/pdf/2006.16668.pdf                    |
 | Character-Level Language Modeling with Deeper Self-Attention | *Rami Al-Rfou, Dokook Choe, Noah Constant, Mandy Guo, Llion Jones* | CoRR       | https://arxiv.org/abs/1808.04444                        |
 | Very Deep Self-Attention Networks for End-to-End Speech Recognition | *Ngoc-Quan Pham, Thai-Son Nguyen, Jan Niehues, Markus Muller, Sebastian Stuker, Alexander Waibel* | CoRR       | https://arxiv.org/abs/1904.13377                        |
-| Non-Autoregressive Neural Machine Translation | *Jiatao Gu, James Bradbury, Caiming Xiong, Victor O. K. Li, Richard Socher*   | ICLR-2018 |  https://arxiv.org/abs/1711.02281            |
