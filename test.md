@@ -4,7 +4,6 @@
 | Paper                                                        | Authors                                                      | Venue      | Link                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------- |
 | Deterministic Non Autoregressive Neural Sequence Modeling by Iterative Refinement | *Jason Lee, Elman Mansimov, Kyunghyun Cho*   | EMNLP-2018 | https://doi.org/10.18653/v1/d18-1149            |
-| End-to-End Non Autoregressive Neural Machine Translation with Connectionist Temporal Classification | *Jindrich Libovický, Jindrich Helcl*   | EMNLP-2018 | https://doi.org/10.18653/v1/d18-1336         |
 | Fast Decoding in Sequence Models Using Discrete Latent Variables | *Lukasz Kaiser, Samy Bengio, Aurko Roy, Ashish Vaswani, Niki Parmar, Jakob Uszkoreit, Noam Shazeer*   |  ICML-2018 |https://arxiv.org/pdf/1803.03382.pdf         |
 | Imitation Learning for Non Autoregressive Neural Machine Translation | *Bingzhen Wei, Mingxuan Wang, Hao Zhou, Junyang Lin, Xu Sun*   | ACL-2019 |  https://doi.org/10.18653/v1/p19-1125               |
 | Retrieving Sequential Information for Non Autoregressive Neural Machine Translation | *Chenze Shao, Yang Feng, Jinchao Zhang, Fandong Meng, Xilin Chen, Jie Zhou*   | ACL-2019 |https://doi.org/10.18653/v1/p19-1288            |
@@ -23,7 +22,6 @@
 | A Study of Non Autoregressive Model for Sequence Generation | *Yi Ren, Jinglin Liu, Xu Tan, Zhou Zhao, Sheng Zhao, Tie-Yan Liu*   |  ACL-2020  |https://www.aclweb.org/anthology/2020.acl-main.15         |
 | Learning to Recover from Multi-Modality Errors for Non Autoregressive Neural Machine Translation | *Qiu Ran, Yankai Lin, Peng Li, Jie Zhou*   |  ACL-2020  |https://www.aclweb.org/anthology/2020.acl-main.277         |
 | ENGINE: Energy-Based Inference Networks for Non Autoregressive Machine Translation | *Lifu Tu, Richard Yuanzhe Pang, Sam Wiseman, Kevin Gimpel*   |  ACL-2020  |https://www.aclweb.org/anthology/2020.acl-main.251         |
-| Latent-Variable Non Autoregressive Neural Machine Translation with Deterministic Inference Using a Delta Posterior | *Raphael Shu, Jason Lee, Hideki Nakayama, Kyunghyun Cho*   | AAAI-2020 | https://aaai.org/ojs/index.php/AAAI/article/view/6413               |
 | Minimizing the Bag-of-Ngrams Difference for Non Autoregressive Neural Machine Translation | *Chenze Shao, Jinchao Zhang, Yang Feng, Fandong Meng and Jie Zhou*   |  AAAI-2020 |https://aaai.org/ojs/index.php/AAAI/article/view/5351         |
 | Understanding Knowledge Distillation in Non Autoregressive Machine Translation | *Chunting Zhou, Jiatao Gu, Graham Neubig*   | ICLR-2020 | https://openreview.net/forum?id=BygFVAEKDH            |
 | Aligned Cross Entropy for Non Autoregressive Machine Translation | *Marjan Ghazvininejad, Vladimir Karpukhin, Luke Zettlemoyer, Omer Levy*   | ICML-2020 | https://doi.org/10.18653/v1/p19-1122           |
