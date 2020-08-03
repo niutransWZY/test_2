@@ -14,4 +14,3 @@
 | Character-Level Language Modeling with Deeper Self-Attention | *Rami Al-Rfou, Dokook Choe, Noah Constant, Mandy Guo, Llion Jones* | CoRR       | https://arxiv.org/abs/1808.04444                        |
 | Very Deep Self-Attention Networks for End-to-End Speech Recognition | *Ngoc-Quan Pham, Thai-Son Nguyen, Jan Niehues, Markus Muller, Sebastian Stuker, Alexander Waibel* | CoRR       | https://arxiv.org/abs/1904.13377                        |
 | Non-Autoregressive Neural Machine Translation | *Jiatao Gu, James Bradbury, Caiming Xiong, Victor O. K. Li, Richard Socher*   | ICLR-2018 |  https://arxiv.org/abs/1711.02281            |
-| Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement | *Jason Lee, Elman Mansimov, Kyunghyun Cho*   | EMNLP-2018 | https://doi.org/10.18653/v1/d18-1149            |
