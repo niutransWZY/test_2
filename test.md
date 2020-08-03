@@ -3,7 +3,6 @@
 
 | Paper                                                        | Authors                                                      | Venue      | Link                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------- |
-| Non Autoregressive Neural Machine Translation | *Jiatao Gu, James Bradbury, Caiming Xiong, Victor O. K. Li, Richard Socher*   | ICLR-2018 |  https://arxiv.org/abs/1711.02281            |
 | Deterministic Non Autoregressive Neural Sequence Modeling by Iterative Refinement | *Jason Lee, Elman Mansimov, Kyunghyun Cho*   | EMNLP-2018 | https://doi.org/10.18653/v1/d18-1149            |
 | End-to-End Non Autoregressive Neural Machine Translation with Connectionist Temporal Classification | *Jindrich Libovický, Jindrich Helcl*   | EMNLP-2018 | https://doi.org/10.18653/v1/d18-1336         |
 | Fast Decoding in Sequence Models Using Discrete Latent Variables | *Lukasz Kaiser, Samy Bengio, Aurko Roy, Ashish Vaswani, Niki Parmar, Jakob Uszkoreit, Noam Shazeer*   |  ICML-2018 |https://arxiv.org/pdf/1803.03382.pdf         |
